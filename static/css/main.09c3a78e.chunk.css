@@ -1,0 +1,2 @@
+.goods{display:grid;grid-row-gap:10px;row-gap:10px;padding:20px 30px;border:2px solid #000}.item{display:grid;grid-template-columns:1fr}.item__name{padding:10px 0;cursor:pointer}.item__name--highlighted{background-color:#ff0}ul{list-style:none}.App{display:grid;justify-items:stretch;width:400px;padding:10px 50px}.App__button{padding:10px 25px;cursor:pointer}
+/*# sourceMappingURL=main.09c3a78e.chunk.css.map */
